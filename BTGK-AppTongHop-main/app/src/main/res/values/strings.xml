@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BTGKAppTongHop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Masv"><b>Mã sinh viên</b> : 2050531200158</string>
+    <string name="sodienthoai"><b>Số DT</b> : 01234567910</string>
+    <string name="gmail"><b>Gmail</b> : lqhuy301@gmail.com</string>
+    <string name="Lopsh"><b>Lớp SH</b> : 20T1</string>
+    <string name="description_naruto">Câu chuyện xoay quanh Uzumaki Naruto, một ninja trẻ muốn tìm cách khẳng định mình để được mọi người công nhận và nuôi ước mơ trở thành Hokage - người lãnh đạo Làng Lá. Cốt truyện được chia làm hai phần – phần đầu lấy bối cảnh vài năm trước tuổi thiếu niên (Naruto Dattebayo) và phần thứ hai là ở tuổi thiếu niên của Naruto</string>
+</resources>
